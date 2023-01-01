@@ -1,6 +1,6 @@
 {
   "name": "graphql-codegen-typescript-typedefs",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "repository": "git@github.com:shwld/graphql-codegen-typescript-typedefs.git",
   "author": "shwld <shu.account@outlook.com>",
   "license": "MIT",
