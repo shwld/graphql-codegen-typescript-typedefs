@@ -17,5 +17,3 @@ recompile.sh
 
 .next/
 out
-/src/**.js
-/src/**.d.ts
